@@ -15,8 +15,8 @@ from sklearn.linear_model import LinearRegression
 from io import BytesIO
 
 # App Title
-st.set_page_config(page_title="SANDHYA Application", layout="wide")
-st.title("SANDHYA All-in-One ML Dashboard")
+st.set_page_config(page_title="Mishritha Application", layout="wide")
+st.title("MISHRITHA All-in-One ML Dashboard")
 
 # Sidebar Inputs
 st.sidebar.header("🔧 Controls")
